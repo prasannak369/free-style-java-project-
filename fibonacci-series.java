@@ -1,4 +1,4 @@
-// Java program for the above approach the
+// Java program for the above approach the some
 
 class GFG {
 
